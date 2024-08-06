@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nethmi Jayalath</h1>
-<h4 align="center">I'm a Software Engineering undergraduate with a passion for web development, IT solutions, and project management. I love creating innovative projects that solve real-world problems while constantly learning and growing.</h4>
+<h4 align="center">I'm a Software Engineering undergraduate with a passion for Web Development, IT Solutions, and Project Management. I love creating innovative projects that solve real-world problems while constantly learning and growing.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nethmimelisha&label=Profile%20views&color=0e75b6&style=flat" alt="nethmimelisha" /> </p>
 
